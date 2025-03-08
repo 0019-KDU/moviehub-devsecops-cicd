@@ -79,7 +79,7 @@ jobs:
     needs: [build]
     env:
       REGISTRY: ghcr.io
-      IMAGE_NAME: 0019-kdu
+      IMAGE_NAME: 0019-kdu/moviehub-devsecops-cicd
     outputs:
       image_tag: ${{ steps.set_output.outputs.image_tag }}
     steps:
