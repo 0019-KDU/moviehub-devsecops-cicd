@@ -1,4 +1,4 @@
-# DevSecOps Pipeline Implementation for Tic Tac Toe Game
+# DevSecOps Pipeline Implementation 
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](docs/f1.png)
 
