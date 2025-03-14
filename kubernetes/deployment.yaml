@@ -17,7 +17,7 @@ spec:
       containers:
         - name: movie-app
 
-          image: ghcr.io/0019-KDU/moviehub-devsecops-cicd:sha-bde800cd8cab4ecf15901aa8fab6fa08bc0189c4
+          image: ghcr.io/0019-KDU/moviehub-devsecops-cicd:sha-1f1f44e6f842a9ce9b03b8c0cfa9fff39913937f
           # Image will be automatically updated by CI/CD pipeline
           imagePullPolicy: Always
           ports:
